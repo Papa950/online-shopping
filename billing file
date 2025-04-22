@@ -4,3 +4,4 @@ print sum
 apply discount policy
 if the item price grater than 100 give 10%
 else 5%
+add cridit
